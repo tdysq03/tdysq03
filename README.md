@@ -2,7 +2,7 @@
 
 - 🌞 You can call me Beam
 - 🐧 3rd year Computer science student
-- 🌱 I’m currently learning Go, Docker, Flutter
+- 🌱 I’m currently learning Go, Docker
 
 ## 💾 Programming Languages and Tools
 
